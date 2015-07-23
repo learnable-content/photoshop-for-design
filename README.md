@@ -15,4 +15,5 @@ Thus, the triad is complete, and each area is very dependent on the others.
 
 What I will show you in this course is how to create graphical elements like navigation bars, slideshow areas, search bars, galleries, and much more, while showcasing different techniques and hot keys. You will get accustomed even more with the tools we are going to use, and see the steps I go through when designing actual elements. Then, you can practice and create your own elements while constantly increasing your speed. This is your main goal for the moment, and then we'll see how all of these fit together in a website design.
 
-So let's get started!
+View all handouts for the course [Photoshop for Web Design ](https://www.sitepoint.com/premium/courses/photoshop-for-web-design-2901) on [Lesson 1.1](https://github.com/learnable-content/photoshop-for-design/tree/lesson1.1)
+
